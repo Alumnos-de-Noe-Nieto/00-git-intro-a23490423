@@ -194,10 +194,10 @@ Sube tu rama `main` a GitHub.
 
 ### Checkpoint 1: Cuenta de GitHub Verificada ✅
 
-- [ ] Tengo una cuenta activa en GitHub
-- [ ] **Verificación:** Abre https://github.com y haz login
+- [x] Tengo una cuenta activa en GitHub
+- [x] **Verificación:** Abre https://github.com y haz login
   - Deberías ver tu perfil con tu avatar
-- [ ] Si lograste iniciar sesión → ✅ Marca este checkpoint
+- [x] Si lograste iniciar sesión → ✅ Marca este checkpoint
 
 ### Checkpoint 2: Repositorio Creado en GitHub ✅
 
