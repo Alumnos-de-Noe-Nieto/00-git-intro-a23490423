@@ -29,3 +29,5 @@ git commit - Guarda los cambios realiazados
 Lo más importante que aprendí de Git es la importancia de mantener un control sobre las versiones de un proyecto. Git facilita el trabajo en equipo, mejora la organización y reduce errores, lo cual es esencial en proyectos de desarrollo de software.
 
 **Fecha:** 13 de febrero de 2026
+
+Repositorio: https://github.com/a23490423/Mi-primer-repositorio
